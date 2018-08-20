@@ -1,0 +1,6 @@
+I have used tenserflow library.
+To run my script, simply run the command 'python audio_nn.py' in terminal.
+It will take input as train_class.csv,  dev_class.csv,  test-class.csv files. (make sure those files are in the same folder as the code)
+It outputs training and development accuracy.
+Using the trained neural network, we test on test-class.csv and outputs submission.csv.
+The code has been written for 1-(A). In the commented portions, codes for other parts can be found.

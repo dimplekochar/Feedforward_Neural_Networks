@@ -1,0 +1,6 @@
+
+    256 nodes in the hidden layer-0.51133
+    SGD optimizer with learning rate of 0.001- 0.50800
+    Two hidden layers of 256 nodes each- 0.50066
+    Batch size of 1000- 0.43600
+

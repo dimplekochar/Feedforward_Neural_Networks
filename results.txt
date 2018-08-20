@@ -1,0 +1,8 @@
+Mean Squared Error=220.15733
+	
+1 hidden layer
+batch size=500
+hidden layer size = 100
+learning rate=0.001
+Adam Optimizer
+vary the epoch.
