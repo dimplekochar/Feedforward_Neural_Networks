@@ -1,0 +1,1 @@
+So, I plotted every feature against the price in gnuplot. Price was independent of many features, so made them 0. The features on which price was dependent, added them as new features as squares and square roots of the original. Didn't affect the rms error much, but that was the best I could come up with.

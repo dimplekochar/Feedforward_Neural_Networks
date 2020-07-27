@@ -1,0 +1,2 @@
+dt.py is a straightforward and simple implementation of a decision tree, using entropy and information gain.
+dt1.py uses the 'sklearn' library available online which seemed very useful. Using that, I have implemented the decision tree.
